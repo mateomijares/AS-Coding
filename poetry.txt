@@ -1,0 +1,6 @@
+The rainbow
+green
+red
+pink
+telllow
+blow
